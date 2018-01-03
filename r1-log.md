@@ -4,8 +4,12 @@ The log of my #100DaysOfCode challenge. Started on [January 2, Tuesday, 2018].
 
 ## Log
 
+### R1D2
+
+Moved to Font Awesome version 5 (manual version). Finished 1 FCC challenge.
+
 ### R1D1 
 
 Finished 1 FCC intermediate algorithm scripting challenge.
 
-### R1D2
+
