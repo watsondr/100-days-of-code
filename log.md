@@ -2,6 +2,14 @@
 
 ### Day 2: January 3, 2018
 
+**Today's Progress**: Finished a FreeCodeCamp challenge. - technically day 4 but have not gone to bed yet.
+
+**Thoughts:**  Hated this challenge. Really struggled with the conversion method but I understand how the 'basic' solution works, how it came from older java solutions I came across on stack overflow. I originally wanted to do a switch but really couldn't picture how to process remainders. This is an issue where if you have a remainder that needs to key to a floor of 1, recursion is definitely the simplest approach.
+
+**Link to work:** [Roman Numeral Challenge](https://goo.gl/gE9cok)
+
+### Day 2: January 3, 2018
+
 **Today's Progress**:  Today I migrated my website to Font Awesome version 5. Changed some website text. Moved my portfolio card icons to font awesome for consistency purposes. Finished a FreeCodeCamp challenge.
 
 **Thoughts:**  Assumed it would be simple but syntax changes and moving from a remote script to a local file took more time than expected. Was very quick by the time I got to changing my portfolio card icons. My FreeCodeCamp challenge took a while due to understanding ES2015 and discovering babbel.
