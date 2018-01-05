@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 2: January 3, 2018
+### Day 4: January 5, 2018
+
+**Today's Progress**: Started a freecodecamp challenge.
+
+**Thoughts:**  The challenge is to use two parameters in a function, 1 an array of objects the other an object, and use the properties of the object to add objects to a new array, copied from the provided array. 
+
+**Link to work:** N/A
+
+### Day 3: January 4, 2018
 
 **Today's Progress**: Finished a FreeCodeCamp challenge. - technically day 4 but have not gone to bed yet.
 
