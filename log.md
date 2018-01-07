@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 7, 2018
+
+**Today's Progress**: Finished 2 FCC challenges: Search & Replace and Pig Latin
+
+**Thoughts:**  Difficult day to concentrate as work starts tomorrow. Did about 90 minutes all up but wasn't present throughout. Hopefully I've offset this by knocking 2 simpler challenges for me out of the way. Also spent a lot of time looking in to Regex and trying to minimise lines of code as I completed the tasks.
+
+**Link to work:** [Search & Replace and Pig Latin](https://www.freecodecamp.org/watsondr)
+
+### Day 5: January 6, 2018
+
+**Today's Progress**: Finished a FreeCodeCamp challenge that took day 4 & 5.
+
+**Thoughts:**  Absolutely stoked. Finished the 'Wherefore art thou' challenge. Take two parameters, 1 object array & an object, then add objects from the array that contain the separate objects' key and value pairs. No spoilers, just pseudocode and finding answers along the way.
+
+**Link to work:** [Wherefore art thou](https://www.freecodecamp.org/watsondr)
+
 ### Day 4: January 5, 2018
 
 **Today's Progress**: Started a freecodecamp challenge.
