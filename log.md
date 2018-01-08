@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 8, 2018
+
+**Today's Progress**: Finished 1 FCC challenge
+
+**Thoughts:**  Another difficult to concentrate day, challenge was not difficult. Started next challenge to finish hour.
+
+**Link to work:** [DNA Pairing](https://www.freecodecamp.org/watsondr)
+
 ### Day 6: January 7, 2018
 
 **Today's Progress**: Finished 2 FCC challenges: Search & Replace and Pig Latin

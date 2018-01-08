@@ -6,6 +6,10 @@ The log of my #100DaysOfCode challenge. Started on [January 2, Tuesday, 2018].
 
 ### R1D6
 
+1 FCC challenge completed, another started.
+
+### R1D6
+
 2 FCC challenges completed.
 
 ### R1D5
