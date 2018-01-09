@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 9, 2018
+
+**Today's Progress**: Finished 1 FCC challenge
+
+**Thoughts:**  Finished a challenge on identifying potentially missing letters, which brought an intro to unicode characters. I believe I made readable code by not checking for -1 but instead 1. 
+
+**Link to work:** [Missing Letters](https://www.freecodecamp.org/watsondr)
+
 ### Day 7: January 8, 2018
 
 **Today's Progress**: Finished 1 FCC challenge

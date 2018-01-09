@@ -4,7 +4,11 @@ The log of my #100DaysOfCode challenge. Started on [January 2, Tuesday, 2018].
 
 ## Log
 
-### R1D6
+### R1D8
+
+1 FCC challenge completed
+
+### R1D7
 
 1 FCC challenge completed, another started.
 
