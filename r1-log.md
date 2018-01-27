@@ -6,6 +6,5 @@ The log of my #100DaysOfCode challenge. Started on [January 27, Saturday, 2018].
 
 ### R1D1 
 
-Finished 1 FCC intermediate algorithm scripting challenge.
-
+Completed 2 FCC challenges to reset my challenge
 
