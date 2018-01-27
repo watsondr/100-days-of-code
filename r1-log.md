@@ -1,36 +1,8 @@
 # #100DaysOfCode Log - Round 1 - Campbell Sinclair
 
-The log of my #100DaysOfCode challenge. Started on [January 2, Tuesday, 2018].
+The log of my #100DaysOfCode challenge. Started on [January 27, Saturday, 2018].
 
 ## Log
-
-### R1D8
-
-1 FCC challenge completed
-
-### R1D7
-
-1 FCC challenge completed, another started.
-
-### R1D6
-
-2 FCC challenges completed.
-
-### R1D5
-
-Finished the challenge from day 4 with a couple extra hours effort.
-
-### R1D4
-
-Made progress to an object comparison and selection challenge.
-
-### R1D3
-
-Completed Roman Numerals challenge on FCC
-
-### R1D2
-
-Moved to Font Awesome version 5 (manual version). Finished 1 FCC challenge.
 
 ### R1D1 
 
